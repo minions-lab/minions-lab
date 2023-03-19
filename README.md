@@ -1,14 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/hello.gif" />
-</p>
-<a target="blank" href="https://profile-counter.glitch.me/dyk-work/count.svg">
-  <p align="center"> 
-    💖 Visited Counts 💖<br>
-    <img src="https://profile-counter.glitch.me/minions-lab/count.svg" />
-  </p>
-</a>
-
----
 
 <!-- ## 🤗 Welcome
 
